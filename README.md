@@ -14,6 +14,11 @@ this component is created to solve multi language websites problem
 
 # Examples
 
+![left to right](https://github.com/sadeghesfahani/direction-sensitive-material-ui/blob/main/ltr.png)
+
+![right to left](https://github.com/sadeghesfahani/direction-sensitive-material-ui/blob/main/rtl.png)
+
+
 ```
 <DirectionSensitive>
     <TextField
