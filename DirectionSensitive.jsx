@@ -20,7 +20,7 @@ const cacheLtr = createCache({
 
 const DirectionSensitive = ({ children }) => {
 
-    /this is where you get your direction based on your program logic
+    // this is where you get your direction based on your program logic
     const {getLanguageDirection} = useLanguage()
     
     return (
